@@ -1,22 +1,15 @@
-a
-{
-  color: red;
-  text-decoration: none;
-}
-
-h1
-{
-  font-family: sans-serif;
-}
 body
 {
-  background-color: #E6E6FA;
+  background-color: #e3e3e3;
+  text-decoration-style: solid;
+  font-family: sans-serif;
 }
 
-#para
+blockquote
 {
-  border-style: double;
+  border : 1px solid white;
   text-align: center;
+  margin-left: 0;
 }
 div
 {
