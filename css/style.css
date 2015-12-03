@@ -8,3 +8,18 @@ h1
 {
   font-family: sans-serif;
 }
+body
+{
+  background-color: #E6E6FA;
+}
+
+#para
+{
+  border-style: double;
+  text-align: center;
+}
+div
+{
+  width: 500px;
+  margin: auto;
+}
